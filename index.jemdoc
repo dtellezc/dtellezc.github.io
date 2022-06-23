@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Duvan Tellez-Castro
+
+~~~
+{}{img_left}{prof.png}{Duvan Tellez-Castro}{250}(250}
+Duvan Tellez-Castro \n
+datellezc@unal.edu.co\n
+#[maxs_cv.pdf CV]\n
+[https://scholar.google.be/citations?user=dnQn-5YAAAAJ&hl=en Google Scholar profile]\n
+~~~
+#~~~
+#== {{<font color="red">News</font>}}
+#*I am a 4th year PhD student].* 
+#~~~
+== About Me
+I'm
+
+== Teaching
+*Tecnicas de control*, Tecnicas de control, Unal 2018.
+# *CS 189/289A*, Introduction to Machine Learning, UC Berkeley Fall 2018 (TA). 
+
+# *EE227C*, [https://ee227c.github.io/ Convex Optimization and Approximation], UC Berkeley, Spring 2018 (TA). [https://ee227c.github.io/notes/ee227c-notes.pdf Link for course notes]. 
+
+
