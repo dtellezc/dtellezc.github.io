@@ -2,23 +2,38 @@
 = Duvan Tellez-Castro
 
 ~~~
-{}{img_left}{prof.png}{Duvan Tellez-Castro}{250}(250}
-Duvan Tellez-Castro \n
-datellezc@unal.edu.co\n
-#[maxs_cv.pdf CV]\n
-[https://scholar.google.be/citations?user=dnQn-5YAAAAJ&hl=en Google Scholar profile]\n
+{}{img_left}{duvan.jpg}{Duvan Tellez-Castro}{250}(250}
+I am a researcher visiting in the [https://www.clemson.edu/cecas/departments/me/ Deparment of Mechanical Engineering] at Clemson University.\n
+\n
+My research interests revolve around the data-driven analysis and control of nonlinear dynamical systems, often with methods from operator theory.
+\n
+#{{<font color="blue">Contact</font>}}\n
+=== Contact\n
+Office:  223 Fluor Daniel Building\n
+Phone: (864) 533-6144\n
+E-mail: [dtellez@clemson.edu]\n
+Orcid : 0000-0002-2190-3458\n
 ~~~
-#~~~
-#== {{<font color="red">News</font>}}
-#*I am a 4th year PhD student].* 
-#~~~
-== About Me
-I'm controller 
+# Links 
+Links: [CV.pdf CV],  [https://orcid.org/0000-0002-2190-3458 Orcid ID],  [https://scholar.google.be/citations?user=dnQn-5YAAAAJ&hl=en Google Scholar],  [https://dblp.org/pid/187/8711.html dblp]\n
+\n
+I am a visiting researcher in [https://www.clemson.edu/cecas/departments/me/people/faculty/Vaidya.html Umesh Vaidya]'s group at Clemson university. I received my PhD degree in Electrical Engineering from Universidad Nacional de Colombia in 2022, under the supervision of [https://sites.google.com/site/eduardomojican/ Eduardo Mojica-Nava] and [https://scholar.google.com.co/citations?user=tsI4BmwAAAAJ&hl=en Jorge Sofrony]. In 2015, I received a master’s degree in Electronic Engineering from Universidad de los Andes, Colombia, where I worked with [https://scholar.google.com.co/citations?user=xu0jdYAAAAAJ&hl=en Nicanor Quijano].
 
-== Teaching
-*Tecnicas de control*, Tecnicas de control, Unal 2018.
-# *CS 189/289A*, Introduction to Machine Learning, UC Berkeley Fall 2018 (TA). 
+# Sede Bogot{{á}} in 2020
 
-# *EE227C*, [https://ee227c.github.io/ Convex Optimization and Approximation], UC Berkeley, Spring 2018 (TA). [https://ee227c.github.io/notes/ee227c-notes.pdf Link for course notes]. 
+
+== Selected Publications
+- [https://ieeexplore.ieee.org/abstract/document/9817407 Reachability Analysis using Spectrum of Koopman Operator]\n
+Bhagyashree Umathe, Duvan Tellez-Castro, and Umesh Vaidya\n
+IEEE Control Systems Letters, 2022 \n
+- [https://www.sciencedirect.com/science/article/abs/pii/S0167691120301869 Adaptive Synchronization of Heterogeneous Multi-Agent Systems: A Free Observer Approach]\n
+Miguel F. Arevalo-Castiblanco, Duvan Tellez-Castro, Jorge Sofrony, Eduardo Mojica-Nava\n
+Systems & Control Letters
+#== News
+#== Teaching
+
+
+
+
 
 
