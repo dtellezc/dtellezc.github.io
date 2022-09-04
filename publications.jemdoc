@@ -1,7 +1,38 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
-== Publications
+= Duvan Tellez-Castro -- Publications
+Please see my [https://scholar.google.be/citations?user=dnQn-5YAAAAJ&hl=en Google Scholar] page for citations.
 
-*Paper 1*
 
-*Paper 2*
 
+== Journals\n
+- Umesh Vaidya and Duvan Tellez-Castro, [https://arxiv.org/pdf/2202.01387.pdf Data-Driven Stochastic Optimal Control using Linear Transfer Operators], Submitted, 2022\n
+- Vladimir Toro, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Naly Rakoto-Ravalontsalama, [https://arxiv.org/pdf/2208.13682.pdf Data-Driven Distributed Voltage Control for Microgrids: A Koopman-based Approach], Submitted, 2022\n
+- Miguel F Arevalo-Castiblanco, Pachon Jaime, Duvan Tellez-Castro, and Eduardo Mojica-Nava, “Cooperative Predictive Cruise Control: A Bargaining Game Approach”, Submitted, 2022\n
+- Camilo Garcia-Tenorio, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Alain Vande Wouwer, “Evaluation of the Region of Attractions of Higher Dimensional Hyperbolic Systems using the Extended Dynamic Mode Decomposition”, Submitted, 2022\n
+- Bhagyashree Umathe, Duvan Tellez-Castro, and Umesh Vaidya, [https://ieeexplore.ieee.org/document/9817407 Reachability Analysis using Spectrum of Koopman Operator], IEEE Control Systems Letters, 2022 \n
+- Duvan Tellez-Castro, Camilo Garcia-Tenorio, Eduardo Mojica-Nava, Jorge Sofrony, and Alain Vande Wouwer, [https://www.mdpi.com/2076-0825/11/6/151 Data-Driven Predictive Control of Interconnected Systems using the Koopman Operator], Actuators, 2022\n
+- Miguel F Arevalo-Castiblanco, Duvan Tellez-Castro, and Eduardo Mojica-Nava, [https://onlinelibrary.wiley.com/doi/10.1002/acs.3404 In direct adaptive synchronization for a heterogeneous multiagent network], International Journal of Adaptive Control and Signal Processing, 2022\n
+- Miguel F Arevalo-Castiblanco, Duvan Tellez-Castro, Jorge Sofrony, and Eduardo Mojica-Nava, [https://www.sciencedirect.com/science/article/abs/pii/S0167691120301869 Adaptive synchronization of heterogeneous multi-agent systems: A free observer approach], Systems & Control Letters, 2020
+- L. Garcia, J. Barreiro-Gomez, E. Escobar, D. Tellez, N. Quijano, and C. Ocampo-Martinez, [https://www.sciencedirect.com/science/article/abs/pii/S0309170815001931 Modeling and real-time control of urban drainage systems: A review], Advances in Water Resources, 2015
+- Eduardo Mojica-Nava, Jimmy Salgado, Duvan Tellez, and Alvaro Lopez. [https://www.hindawi.com/journals/mpe/2014/268541/ Optimal control of switching topology networks], Mathematical Problems in Engineering, 2014
+
+
+== Refereed Conference Proceedings
+- Alexander Krolicki, Duvan Tellez-Castro, and Umesh Vaidya, “Nonlinear Dual-Mode Model Predictive Control using Koopman Eigenfunctions”. IEEE Conference on Decision and Control (to appear), 2022
+- Duvan Tellez-Castro, Fadi Abdeljawad, and Umesh Vaidya. “Control-Oriented Modeling using Koopman Operator: An application to the Cahn-Hilliard CoarseningProblem”, IFAC Modeling, Estimation and Control Conference (to appear), 2022
+- Vladimir Toro, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Naly Rakoto-Ravalontsalama, “Distributed Koopman-Based Control of Improved Swing Equation”, IFAC Conference on Networked Systems, 2022
+- Hongzhe Yu, Joseph Moyalan, Duvan Tellez-Castro, Umesh Vaidya, and Yongxin Chen, “Convex optimal control synthesis under safety constraints”, IEEE Conference on Decision and Control,  2021
+- Vladimir Toro, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Naly Rakoto-Ravalontsalama. “Data-Driven Voltage Secondary Control for Microgrids”, IEEE Colombian Conference on Automatic Control,  2021
+- JA Rodriguez-Gil, MF Arevalo-Castiblanco, D Tellez-Castro, and E Mojica-Nava. “A Distributed Iterative LQR Approach for a Cart-Pole Network Synchronization”, IEEE 5th Colombian Conference on Automatic Control, 2021
+- Fabian Salazar-Caceres, Duvan Tellez-Castro, and Eduardo Mojica-Nava. “Data-Driven Synchronization of Coupled Heterogeneous Oscillators”, IEEE Colombian Conference on Automatic Control, 2021
+- Gustavo A. Cardona, Duvan Tellez-Castro, Juan Calderon, and Eduardo Mojica-Nava. “Adaptive Multi-Quadrotor Control for Cooperative Transportation of a Cable-Suspended Load”, IEEE European Control Conference, 2021
+- GA Cardona, M Arevalo-Castiblanco, D Tellez-Castro, J Calderon, and E Mojica-Nava. “Robust adaptive synchronization of interconnected heterogeneous quadrotors transporting a cable-suspended load”, 2021 IEEE International Conference on Robotics and Automation, 2021
+- Miguel F Arevalo-Castiblanco, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Jorge Sofrony. “AdaptiveDistributed Control for Large-Scale Systems with Unknown Interconnection”, World Congress of the International Federation of Automatic Control, 2020
+- Miguel F Arevalo-Castiblanco, Duvan Tellez-Castro, Gustavo Andres Cardona, and Eduardo Mojica-Nava. “An Adaptive Optimal Control Modification with Input Uncertainty for Unknown Heterogeneous Agents Synchronization”, IEEE Conference on Decision and Control, 2019.
+- GA Cardona, D Tellez-Castro, and E Mojica-Nava. “Cooperative transportation of a cable-suspended load by multiple quadrotors”, IFAC Conference on Networked Systems, 2019
+- F Galarza-Jimenez, D Tellez-Castro, J Sofrony, and E Mojica-Nava. “Cooperative Output Regulation for Multi-Agent Systems with EDMD Leader Approximation”, IFAC Conference on Networked Systems, 2019
+- Camilo Garcia-Tenorio, Duvan Tellez-Castro, Eduardo Mojica-Nava, and Alain Vande Wouwer. “Analysis of a Class of Hyperbolic Systems Via Data-Driven Koopman Operator”, International Conference on System Theory, Control and Computing, 2019
+- Claudia Caro-Ruiz, Duvan Tellez-Castro, and Eduardo Mojica-Nava. “Self-Organization in Networks: A Data-Driven Koopman Approach”, IEEE Colombian Conference Automatic Control, 2017
+- Fabian Salazar-Caceres, Duvan Tellez-Castro, and Eduardo Mojica-Nava. “Consensus for Multi-agent Nonlinear Systems : A Carleman Approximation Approach”, IEEE Colombian Conference Automatic Control, 2017
+- Duvan Tellez-Castro, Nicanor Quijano, and Eduardo Mojica-Nava. “Decentralized control for urban drainage systems via moving horizon observer”, IEEE Conferenceon Control Applications, 2016
+- Luis Garcıa, Eduardo Escobar, Julian Barreiro, Nicanor Quijano, Carlos Ocampo-Martınez, and Duvan Tellez. “On the modeling and real-time control of urban drainage systems: A survey”. In: 11th International Conference on Hydroinformatics, 2014
